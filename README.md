@@ -1,2 +1,2 @@
 # Introdução ao Python para a CSI
-INTRODUÇÃO À LINGUAGEM DE PROGRAMAÇÃO PYTHON PARA A CSI/IFS
+Curso de introdução à linguagem de Programação Python para a Coordenadoria de Sistemas de Informação do IFS
