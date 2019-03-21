@@ -5,6 +5,3 @@
 > O diretório "notebooks" contém os arquivos jupyter criados para a aprensentação ou descrição dos estudos de caso usados como prática.
 
 > O diretório "práticas" contém os estudos de caso criados para o curso.
-
-
-# Link para o código de transparência: https://repl.it/@ThiagoDias2/transparenciaaula
